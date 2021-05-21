@@ -6,7 +6,7 @@ a.goto(-200,100)
 a.pendown()
 a.color("yellow")
 
-a.speed(25)
+a.speed(50)
 def star(turtle,size):
     if size<=10:
         return
@@ -18,5 +18,5 @@ def star(turtle,size):
             turtle.left(216)
             turtle.end_fill()
 
-star(a, 360)
+star(a,360)
 turtle.done()

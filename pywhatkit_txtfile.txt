@@ -1,0 +1,11 @@
+--------------------
+Date: 11:6:2020
+Time: 17:15
+Phone number: +919625313357
+Message:  this is python genrated  msg 
+--------------------
+Date: 11:6:2020
+Time: 17:20
+Phone number: +919625313357
+Message:  this is python genrated  msg 
+--------------------

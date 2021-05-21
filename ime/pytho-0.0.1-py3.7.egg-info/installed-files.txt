@@ -1,0 +1,7 @@
+..\..\..\bin\pytho-script.py
+..\..\..\bin\pytho.exe
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+entry_points.txt
+top_level.txt
